@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: mrd-python
+Version: 2.0.1
+Summary: Library and tools for working with data in the ISMRM Raw Data (MRD) format.
+Project-URL: Homepage, https://ismrmrd.github.io/mrd
+Project-URL: Documentation, https://ismrmrd.github.io/mrd
+Project-URL: Repository, https://github.com/ismrmrd/mrd
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy >=1.22.0
+Requires-Dist: pillow >=9.2.0
+
+Library and tools for working with data in the ISMRM Raw Data (MRD) format.
