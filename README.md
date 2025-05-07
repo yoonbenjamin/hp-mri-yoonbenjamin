@@ -106,7 +106,7 @@ To set up and run the backend (Flask):
 
 For more details, bug reports, or feature requests, feel free to reach out!
 
-📧 **Contact**: [yoonb@seas.upenn.edu](mailto:yoonb@seas.upenn.edu)  
-💻 **MEDCAP Project & GitHub Repository**: [github.com/MEDCAP/hpmri-app](https://github.com/MEDCAP)  
+**Contact**: [yoonb@seas.upenn.edu](mailto:yoonb@seas.upenn.edu)  
+**MEDCAP Project & GitHub Repository**: [github.com/MEDCAP/hpmri-app](https://github.com/MEDCAP)  
 
 We appreciate your feedback and contributions!
