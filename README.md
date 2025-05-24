@@ -1,8 +1,8 @@
 # **HP-MRI Web App**  
 
 **Author(s):** Ben Yoon  
-**Date:** Fri Mar 7, 2025  
-**Version:** 2.0.0
+**Date:** Fri May 8, 2025  
+**Version:** 2.0.4
 
 A **full-stack web application** designed to streamline the **visualization, simulation, shareability, and conversion** of **Hyperpolarized MRI (HP MRI) data**. Built with **React (Vite)** on the **frontend** and **Flask** on the **backend**, this application provides an intuitive UI for managing MRI workflows, sharing (storing and retrieving) data, and visualizing MRI images in an **interactive and scalable** way.
 
